@@ -71,6 +71,11 @@ yarn install
 # executar o projeto
 yarn start
 ```
+# Agradecimentos
+Quero agradecer ao professor [Nélio Alves](https://github.com/acenelio "acenelio") e a escola [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior") por todos os eventos e cursos disponibilizados. Os métodos de ensino da [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior") são de fácil entendimento, tenho aprendido muito com vocês.
+
+Obrigado...
+Sucesso!
 
 # Autor
 
