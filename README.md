@@ -36,7 +36,7 @@ A aplicação consiste em uma listagem de vendedores, onde serão apresentadas i
 - ReactJS
 - Apex Charts
 ## Implantação em produção
-- Back end: Heroku
+- Back end: Railway
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
